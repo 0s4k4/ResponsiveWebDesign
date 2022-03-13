@@ -30,3 +30,8 @@ h2{
 #cat-photo-form{
     background-color: green;;
 }
+
+/*asignaicion de estilo con input de estilo*/
+[type="checkbox"]{
+    margin: 10px 0px 15px 0px
+  }

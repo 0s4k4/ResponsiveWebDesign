@@ -37,8 +37,11 @@
 .blue-box{
     background-color: blue;
     color: #fff;
+
+    /*padding con otros metodos de medicion*/
+    padding: 1.5em;
     /*padding top, right, left, bottom*/
-    padding: 40px 40px 20px 40px;
+    /* padding: 40px 40px 20px 40px; */
     /*parding por separado*/
     /* padding-top: 40px;
     padding-bottom: 200px;
@@ -52,5 +55,5 @@
     margin-right: 20px; */
 
     /*margin  con clockwise*/
-    margin: 40px 20px 20px 40px;
+    margin: 40px, 20px, 20px 0px;
 } 

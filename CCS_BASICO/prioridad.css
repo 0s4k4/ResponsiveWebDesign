@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: monospace;
+    
+}
+/* la prioridad se basa en modelo de cascada, dando prioridad al de abajo*/
+
+.pink-text{
+    /*el atributo !important hace que de mas prioridad*/
+    color: pink !important;
+}
+
+.blue-text{
+    color: blue;
+}
+
+/*elemento id no importa la posicion siempre tendra la prioridad*/
+#orange-text{
+    color: orange;
+}
