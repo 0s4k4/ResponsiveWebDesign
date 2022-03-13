@@ -1,3 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 .red-text{
     color: red;
+}
+
+p{
+    font-size: 16px;
+    font-family: monospace;
+}
+
+h2{
+    font-family: Lobster;
+}
+
+.smaller-image{
+    width: 100px;
+}
+
+.thick-green-border{
+    border-width: 10px;
+    border-style: solid;
+    color: green;
+    border-radius: 50%;
+}
+
+.background-silver{
+    background-color: silver;
+}
+
+#cat-photo-form{
+    background-color: green;;
 }
