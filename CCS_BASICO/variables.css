@@ -1,9 +1,9 @@
 .penguin {
 
     /* Cambia solo el código debajo de esta línea */
-    --penguin-skin: black;
-    --penguin-belly: gray;
-    --penguin-beak: yellow;
+    --penguin-skin: gray;
+    --penguin-belly:white;
+    --penguin-beak: orange;
     /* Cambia solo el código encima de esta línea */
 
     position: relative;
